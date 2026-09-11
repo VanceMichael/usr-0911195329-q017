@@ -1,6 +1,7 @@
 {
   "service_id": "infra-inspection",
-  "title": "关键信息基础设施安全巡检服务",
+  "title": "网络热词语境标注 API",
   "health_path": "/health",
-  "port": 8080
+  "port": 8080,
+  "display_name": "网络热词语境标注 API"
 }
